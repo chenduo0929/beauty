@@ -1,0 +1,2 @@
+# beauty
+some beautiful code
